@@ -1,0 +1,5 @@
+.blue{ -fx-fill: #8cb9ed; }
+.border{ -fx-stroke:  #8cb9ed;-fx-fill: white;}
+.seat{  -fx-background-color:#8cb9ed ; }
+.toilet{-fx-background-color:#8cb9ed ;-fx-fill: #8cb9ed;-fx-font-size:30px; }
+
